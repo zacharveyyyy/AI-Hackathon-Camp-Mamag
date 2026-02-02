@@ -28,9 +28,9 @@ B2027 - Villegas, Julienne Raine Dimaano
 3. Run the application
 
 ### Prototype Login Details
-- TEACHER LOGIN Details
-Email: gurongbayan@cbzrc.pshs.edu.ph
-Password: sixseven
-- STUDENT LOGIN Details
-Email: iskolarngbayan@cbzrc.pshs.edu.ph
-Password: sixseven
+- ## TEACHER LOGIN Details
+- Email: gurongbayan@cbzrc.pshs.edu.ph
+- Password: sixseven
+- ## STUDENT LOGIN Details
+- Email: iskolarngbayan@cbzrc.pshs.edu.ph
+- Password: sixseven
