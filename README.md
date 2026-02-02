@@ -6,10 +6,10 @@ teachers to update clearance status digitally while students monitor progress
 in real time.
 
 ### Developers (from Camp Mamag)
-B2030 - Avilla, Saul Gabe Padilla
-B2029 - Gordula, Zac Harvey
-B2029 - Lim, Zoe Javison
-B2027 - Villegas, Julienne Raine Dimaano
+- B2030 - Avilla, Saul Gabe Padilla
+- B2029 - Gordula, Zac Harvey
+- B2029 - Lim, Zoe Javison
+- B2027 - Villegas, Julienne Raine Dimaano
 
 ### Features
 - Digital clearance monitoring
